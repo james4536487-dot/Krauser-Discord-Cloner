@@ -3,7 +3,7 @@
 A modern application for cloning and backing up Discord servers.
 Dark interface, secure token storage, auto-update.
 
-![version](https://img.shields.io/badge/version-3.1-blue)
+![version](https://img.shields.io/badge/version-4.0-blue)
 ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 ---
@@ -13,7 +13,7 @@ Dark interface, secure token storage, auto-update.
 - **Cloning** — a complete copy of the server (roles, channels, emojis, stickers, webhooks, etc.)
 - **Synchronization** — add only missing objects without deleting anything
 - **Cleanup** — complete removal of server content
-- **Backup and Restoration** — saving the server structure to a file
+- **Backup and restoration** — saving the server structure to a file
 - **Auto-backup** before deletion — insurance for your data
 - **Configuration profiles** — saved sets of parameters
 - **Operation history** — log of all actions
@@ -24,7 +24,7 @@ Dark interface, secure token storage, auto-update.
 
 ## Installation
 
-1. Download **`KrauserCloner-Setup.exe`** from the [Releases](https://github.com/james4536487-dot/Krauser-Discord-Cloner/releases/tag/v3.1) section
+1. Download **`KrauserCloner-Setup.exe`** from the [Releases](https://github.com/james4536487-dot/Krauser-Discord-Cloner/releases/tag/v4.0) section
 2. Run the installer and follow the setup wizard
 3. Launch the application from the desktop or the Start menu
 
@@ -49,13 +49,10 @@ Or use the portable version **`KrauserCloner.exe`** — without installation.
 
 ## Warning
 
-This program works with your personal Discord token, meaning, essentially, as a self-bot. 
-Discord forbids this, and because of this, your account may be banned. 
-I state right away that I am not responsible for your account being banned. 
-You decide for yourself to download this file and run the cloning. 
-If you do this, it means you agree that it is not my fault if something happens to your account. 
-If you absolutely do not want to get banned, it is better to use some spare account that you don't mind losing. 
-And then you can transfer the server rights to your main account.
+⚠️ This program works with your personal Discord token — essentially, as a self-bot. Discord forbids this, and your account can be banned for it.
+The author is not responsible for your account being banned. By downloading and running the cloning, you do so at your own risk and agree that the author is not to blame if something happens to your account.
+
+💡 Tip: use a spare account that you don't mind losing. And after cloning, just transfer the server rights to your main account. 
 
 ---
 
