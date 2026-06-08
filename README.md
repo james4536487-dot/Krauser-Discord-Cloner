@@ -3,7 +3,7 @@
 A modern application for cloning and backing up Discord servers.
 Dark interface, secure token storage, auto-update.
 
-![version](https://img.shields.io/badge/version-4.1.1-blue)
+![version](https://img.shields.io/badge/version-4.2.0-blue)
 ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 ---
@@ -24,11 +24,9 @@ Dark interface, secure token storage, auto-update.
 
 ## Installation
 
-1. Download **`KrauserCloner-Setup.exe`** from the [Releases](https://github.com/james4536487-dot/Krauser-Discord-Cloner/releases/tag/v4.1.1) section
+1. Download **`KrauserCloner-Setup.exe`** from the [Releases](https://github.com/james4536487-dot/Krauser-Discord-Cloner/releases/tag/v4.2.0) section
 2. Run the installer and follow the setup wizard
 3. Launch the application from the desktop or the Start menu
-
-Or use the portable version **`KrauserCloner.exe`** — without installation.
 
 ---
 
